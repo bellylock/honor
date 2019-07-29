@@ -1,0 +1,62 @@
+[
+    {   "id" : "1",
+        "key" : "/home",
+        "name" : "首页",
+        "icon" : "home"
+    },
+    {   "id" :"5",
+        "key" : "/recharge",
+        "name" : "充值中心",
+        "icon" : "pay-circle"
+    },
+    {   "id" :"2",
+        "key" : "/VPN",
+        "name" : "购买PPTP套餐",
+        "icon" : "like"
+    },
+    {   "id" : "4",
+        "key" : "/buyMeal",
+        "name" : "购买IP套餐",
+        "icon" : "dollar"
+    },
+    {   "id" : "9",
+        "key" : "/progress",
+        "name" : "进程代理套餐",
+        "icon" : "dashboard"
+    },
+    {   "id" : "3",
+        "key" : "/getIp",
+        "name" : "提取IP",
+        "icon" : "cloud"
+    },
+    {   "id" : "6",
+        "key" : "/help",
+        "name" : "帮助中心",
+        "icon" : "team"
+    },
+    {   "id" : "10",
+        "key" : "/download",
+        "name" : "下载中心",
+        "icon" : "cloud-download"
+    },
+    {   "id" : "7",
+        "key" : "/agency",
+        "name" : "代理合作",
+        "icon" : "rocket"
+    },
+    {   "id" : "8",
+        "key" : "/server",
+        "name" : "服务器地址",
+        "icon" : "cluster"
+    },
+    {   "id" : "11",
+        "key" : "/aboutus",
+        "name" : "关于我们",
+        "icon" : "bulb"
+    },
+    {   "id" : "12",
+        "key" : "/contactus",
+        "name" : "联系我们",
+        "icon" : "global"
+    }
+]

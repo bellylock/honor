@@ -1,0 +1,61 @@
+#root
+    .header.ant-layout-header
+        //text-align right
+        // height auto
+        // background transparent
+        // background: url(http://pc.bitdaili.com/Home/img/bit/help_banner.png) center no-repeat
+        // background-size: cover
+        height 100px
+        background #282C31
+        position fixed
+        left 0
+        top 0
+        z-index 1000
+        width 100%
+        padding:0
+        .logo
+            float left
+            margin-top 28px
+            width 136px
+
+        .ant-menu
+            float: right
+            width:954px
+            background transparent
+            border-bottom none
+            height 100px
+            padding 25px 0
+            font-size 16px
+            .ant-menu-submenu:hover .ant-menu-submenu-title
+                color: #4b98f7
+            .ant-menu-submenu-title{
+                font-size: 30px;
+                color: white;
+                transition all .8s
+            }
+
+            .ant-menu-item:hover a
+                color: #4b98f7
+            .ant-menu-item.btn
+                border-bottom 0
+                .ant-btn
+                    width 90px
+                    height 35px
+                    border-radius 18px
+            a
+                color #fff
+                font-size:14px
+            .ant-menu-item-selected > a
+                color: #4b98f7 !important
+
+    .header .container
+        width: 1170px
+        margin: 0 auto
+        overflow :hidden
+        -webkit-box-sizing: border-box
+        -moz-box-sizing: border-box
+        box-sizing: border-box
+        .ant-menu-item
+            padding: 0 10px
+            .anticon
+                margin-right 2px

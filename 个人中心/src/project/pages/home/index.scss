@@ -1,0 +1,31 @@
+.ant-menu-inline .ant-menu-item{
+    margin-top: 0;
+}
+.ele{
+    &.sec{
+        margin-right: 30px;
+    }
+    .anticon{
+        margin-right: 4px;
+    }
+    font-size: 16px;
+    margin-right: 15px;
+}
+.charge{
+    &:hover{
+        background-color: #ff7600;
+        color: #fff;
+    }
+    font-size: 14px;
+    color: #fff;
+    display: inline-block;
+    background-color: orangered;
+    line-height: 22px;
+    padding: 0 10px;
+    margin-right: 40px;
+}
+.check{
+    font-size: 15px;
+    color: #0b94e6;
+    margin-right: 40px;
+}

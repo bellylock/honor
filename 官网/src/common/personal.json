@@ -1,0 +1,53 @@
+[
+     
+    {   "id" : "11",
+        "key" : "/personal/info",
+        "name" : "账户中心",
+        "icon" : "user",
+        "child":[
+            {   "id" : "1",
+                "key" : "/personal/info",
+                "name" : "账户信息",
+                "icon" : "user"
+            },
+            {   "id" :"2",
+                "key" : "/personal/password",
+                "name" : "修改密码",
+                "icon" : "key"
+            }
+        ]
+    },
+    {   "id" : "33",
+        "key" : "/personal/buy",
+        "name" : "购买套餐",
+        "icon" : "dollar"
+    },
+    {   "id" : "44",
+        "key" : "/personal/records",
+        "name" : "记录中心",
+        "icon" : "contacts",
+        "child":[
+            {   "id" : "3",
+                "key" : "/personal/buyRecords",
+                "name" : "购买记录",
+                "icon" : "dollar"
+            },
+           
+            {   "id" : "4",
+                "key" : "/personal/records",
+                "name" : "充值记录",
+                "icon" : "money-collect"
+            },
+            {   "id" : "5",
+                "key" : "/personal/use",
+                "name" : "使用记录",
+                "icon" : "contacts"
+            },
+            {   "id" : "6",
+                "key" : "/personal/IP",
+                "name" : "IP白名单",
+                "icon" : "idcard"
+            }
+        ]
+    }
+]
